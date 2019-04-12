@@ -10,6 +10,14 @@
   
   [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
   
+  - 网站 & 软件
+    
+    [Aboboo](http://www.aboboo.com/g/#/): 学外语必备神器
+    
+    [Quizlet](https://quizlet.com/zh-cn): 免费的学习工具和单词卡
+    
+    
+  
 - 数学
   
   [Code for A Programmer's Introduction to Mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics)
@@ -23,6 +31,8 @@
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
   
   [a frontend tech list for developers](https://github.com/alienzhou/frontend-tech-list)
+  
+  [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
 
   - `Node`
   
@@ -53,9 +63,22 @@
   [JavaScript 工程师都应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
 
 - `Python`
+
   [北大多领域中文分词工具](https://github.com/lancopku/pkuseg-python)
+  
+  [Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
+
+- `Git`
+
+  [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+
 - `Java`
-- 计算机资料
+- 计算机资料 + 资源
+
+  [A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
+  
+  [An awesome & curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome)
+
 - 算法 + 机器学习 + 深度学习
 
   [VIP cheatsheets for Stanford's CS 230 Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
@@ -78,11 +101,19 @@
   
   [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   
+  [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+  
 - 爬虫
 
-  [annie](https://github.com/iawia002/annie)
+  [annie](https://github.com/iawia002/annie): Fast, simple and clean video downloader
   
   [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
+  
+  [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): python模拟登陆一些大型网站
+  
+  [Nyspider](https://github.com/Nyloner/Nyspider): 各种网站爬虫数据
+  
+  [awesome-spider](https://github.com/facert/awesome-spider): 收集各种爬虫 （默认爬虫语言为 python
   
 - 各大高校资源
 
@@ -106,6 +137,11 @@
   
   [面试图谱](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
   
+  
+- 工具 & 插件
+
+  [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw-dev/xg2xg): 最佳开发工具大全
+
   
   
   
