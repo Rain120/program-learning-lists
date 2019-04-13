@@ -1,4 +1,4 @@
-# 整理我在`Github`上收集的学习资料
+# 整理我在[`Github`](https://github.com/Rain120)上收集的学习资料
 
 - 英语
 
@@ -95,9 +95,11 @@
     [30 秒学 JavaScript](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
   
   - `CSS`
+  
     [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
   
   - `Jquery`
+  
     [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery): Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 
 - `Python`
