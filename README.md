@@ -169,7 +169,7 @@
   
   [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
   
-  [贵校课程资料民间整理}(https://github.com/lib-pku/libpku)
+  [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
   
 - 面试
 
