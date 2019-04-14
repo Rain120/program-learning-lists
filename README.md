@@ -52,9 +52,11 @@
     
     [Node.js模块，用于解析表单数据，尤其是文件上载。](https://github.com/felixge/node-formidable): A node.js module for parsing form data, especially file uploads.
   
+    [生于使用Node.js和Koa构建更好的企业框架和应用程序](https://github.com/eggjs/egg): Born to build better enterprise frameworks and apps with Node.js & Koa
+  
   - [`React`](https://github.com/facebook/react)
   
-    [從零開始學 ReactJS](https://github.com/kdchang/reactjs101)
+    [從零開始學 ReactJS](https://github.com/kdchang/reactjs101): 一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。[Gitbook](https://www.gitbook.com/book/kdchang/react101/details)
     
     [一些简单的React.js演示](https://github.com/ruanyf/react-demos): a collection of simple demos of React.js
     
@@ -115,10 +117,9 @@
   [一个交互式git可视化，以挑战和教育](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate!
   
   [从任何git存储库快速浏览文件的历史记录](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
-  
-  [生于使用Node.js和Koa构建更好的企业框架和应用程序](https://github.com/eggjs/egg): Born to build better enterprise frameworks and apps with Node.js & Koa
 
 - `Java`
+
 - 计算机资料 + 资源
 
   [A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
@@ -127,9 +128,13 @@
 
 - 算法 + 机器学习 + 深度学习
 
-  [VIP cheatsheets for Stanford's CS 230 Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
+  [VIP cheatsheets for Stanford's CS 230 Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning): 深度学习 230
   
-  [VIP cheatsheets for Stanford's CS 229 Deep Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+  [VIP cheatsheets for Stanford's CS 229 Deep Learning](https://github.com/afshinea/stanford-cs-229-machine-learning): 深度学习 229
+  
+  [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials): 该教程将与斯坦福大学《TensorFlow for Deep Learning Research》课程一起进行。[地址](https://web.stanford.edu/class/cs20si/)
+
+作者把课程大纲、幻灯片和讲义都放在了网站上，每周作业和示例放在代码仓库中。
   
   [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   
