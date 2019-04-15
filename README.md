@@ -120,6 +120,8 @@
 
 - `Java`
 
+  [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn): 包括开发库、开发工具、网站、博客、微信、微博等。
+
 - 计算机资料 + 资源
 
   [A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
@@ -170,11 +172,14 @@
 
   [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT)
   
-  [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+  [北大图书馆](https://github.com/lib-pku/libpku): [网页地址](https://lib-pku.github.io/)
   
-  [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+  [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles): [网页地址](https://qsctech.github.io/zju-icicles/)
   
-  [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
+  [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course): [网页地址](https://ustc-resource.github.io/USTC-Course/)
+  
+  [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
+  
   
 - 面试
 
@@ -204,6 +209,12 @@
     [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack): 代码主机和代码审查的代码智能：文件，PR和差异中的悬停，文档，定义和引用
     
     [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp): `OctoLinker`是`Chrome`，`Firefox`和`Opera`的浏览器扩展，可让您更有效地浏览`GitHub`上的代码。
+    
+    [Github Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk): 为`GitHub`提供整洁的`hovercards`。它使您可以从`GitHub`上的任何位置即时访问用户/回购/发布/提交信息。
+    
+    [OctoHint](https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk): 智能感知提示`GitHub`。
+    
+    [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien): 呈现`GitHub`贡献图的等距像素视图。
     
   - 前端
   
