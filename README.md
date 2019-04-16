@@ -10,6 +10,8 @@
   
   [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
   
+  [英文资料的中文翻译](https://github.com/oldratlee/translations)
+  
   - 网站 & 软件 & `Chrome` 插件
     
     [Aboboo](http://www.aboboo.com/g/#/): 学外语必备神器
@@ -114,9 +116,13 @@
 
   [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
   
-  [一个交互式git可视化，以挑战和教育](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate!
+  [一个交互式git可视化，以挑战和教育](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate! [Demo 地址](https://learngitbranching.js.org/?demo)
   
   [从任何git存储库快速浏览文件的历史记录](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
+
+  [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+  
+  [可视化GitHub配置文件的工具](https://github.com/tipsy/profile-summary-for-github)
 
 - `Java`
 
@@ -142,7 +148,7 @@
   
   [100 Days of ML Coding 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
   
-  [Companion webpage to the book "Mathematics For Machine Learning"](https://github.com/mml-book/mml-book.github.io)
+  [Companion 网页上的“机器学习数学”一书](https://github.com/mml-book/mml-book.github.io)
   
   [Book about interpretable machine learning](https://github.com/christophM/interpretable-ml-book)
   
@@ -155,6 +161,10 @@
   [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   
   [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+  
+  [TensorFlow教程和初学者示例（支持TF v1和v2）](https://github.com/aymericdamien/TensorFlow-Examples)
+  
+  [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)
   
 - 爬虫
 
@@ -179,6 +189,10 @@
   [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course): [网页地址](https://ustc-resource.github.io/USTC-Course/)
   
   [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
+  
+- 其他
+
+  [CDCS 中国数据竞赛优胜解集锦](https://github.com/geekinglcq/CDCS)
   
   
 - 面试
@@ -230,7 +244,9 @@
   
   [扩展管理器(Extension Manager)](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco): 管理扩展，快速启用/禁用，支持批处理操作，智能排序。 快速，简单，安全。
 
-
+  [浏览器扩展，简化了GitHub界面并添加了有用的功能](https://github.com/sindresorhus/refined-github)
+  
+  [Smallpdf](https://chrome.google.com/webstore/detail/smallpdf/ohfgljdgelakfkefopgklcohadegdpjf): Smallpdf  - 易于使用的PDF工具，转换，压缩，合并，拆分和编辑PDF文件
   
   
   
