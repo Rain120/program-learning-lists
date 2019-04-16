@@ -1,8 +1,14 @@
 # 整理我在[`Github`](https://github.com/Rain120)上收集的学习资料
 
-[数学](#math)
+### <span id="top">快速导航</span>
 
-- 英语
+[英语](#english) | [数学](#math) | [前端](#front-end) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
+
+[Git](#git) | [Java](#java) | [计算机资料 + 资源](#pc-resources) | [算法 + 机器学习 + 深度学习](#al-ml-dl) | [爬虫](#spider)
+
+[各大高校资源](#u-resources) | [其他](#others) | [面试](#interview) | [工具 & 插件](#tools-extensions)
+
+- <span id="english">英语</span>
 
   [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
   
@@ -32,7 +38,7 @@
   
   [《玩转线性代数》示例代码](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
 
-- 前端
+- <span id="front-end">前端</span>
 
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
   
@@ -86,8 +92,9 @@
   
     [多端统一开发框架 Taro 优秀学习资源汇总](https://github.com/NervJS/awesome-taro)
    
-  
-- 前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`
+[Back Top](#top)
+
+- <span id="html-css-js-jq">前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`</span>
 
   - `Javascript`
 
@@ -108,13 +115,13 @@
   
     [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery): Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 
-- `Python`
+- <span id="py">`Python`</span>
 
   [北大多领域中文分词工具](https://github.com/lancopku/pkuseg-python)
   
   [Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
 
-- `Git`
+- <span id="git">`Git`</span>
 
   [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
   
@@ -125,18 +132,21 @@
   [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
   
   [可视化GitHub配置文件的工具](https://github.com/tipsy/profile-summary-for-github)
+  
+[Back Top](#top)
 
-- `Java`
+- <span id="java">`Java`</span>
 
   [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn): 包括开发库、开发工具、网站、博客、微信、微博等。
 
-- 计算机资料 + 资源
+
+- <span id="pc-resources">计算机资料 + 资源</span>
 
   [A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
   
   [An awesome & curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome)
 
-- 算法 + 机器学习 + 深度学习
+- <span id="al-ml-dl">算法 + 机器学习 + 深度学习</span>
 
   [VIP cheatsheets for Stanford's CS 230 Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning): 深度学习 230
   
@@ -167,8 +177,10 @@
   [TensorFlow教程和初学者示例（支持TF v1和v2）](https://github.com/aymericdamien/TensorFlow-Examples)
   
   [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)
-  
-- 爬虫
+
+[Back Top](#top)
+
+- <span id="spider">爬虫</span>
 
   [annie](https://github.com/iawia002/annie): Fast, simple and clean video downloader
   
@@ -179,8 +191,8 @@
   [Nyspider](https://github.com/Nyloner/Nyspider): 各种网站爬虫数据
   
   [awesome-spider](https://github.com/facert/awesome-spider): 收集各种爬虫 （默认爬虫语言为 python
-  
-- 各大高校资源
+
+- <span id="u-resources">各大高校资源</span>
 
   [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT)
   
@@ -192,12 +204,13 @@
   
   [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
   
-- 其他
+- <span id="others">其他</span>
 
   [CDCS 中国数据竞赛优胜解集锦](https://github.com/geekinglcq/CDCS)
+
+[Back Top](#top)
   
-  
-- 面试
+- <span id="interview">面试</span>
 
   [FEX 面试问题](https://github.com/fex-team/interview-questions)
   
@@ -211,8 +224,9 @@
   
   [前端求职面试问题](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
   
-  
-- 工具 & 插件
+[Back Top](#top)
+
+- <span id="tools-extensions">工具 & 插件</span>
 
   [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw-dev/xg2xg): Google 一名前员工总结最佳开发工具大全
   
@@ -250,5 +264,6 @@
   
   [Smallpdf](https://chrome.google.com/webstore/detail/smallpdf/ohfgljdgelakfkefopgklcohadegdpjf): Smallpdf  - 易于使用的PDF工具，转换，压缩，合并，拆分和编辑PDF文件
   
-  
+ 
+[Back Top](#top)
   
