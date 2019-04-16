@@ -121,7 +121,7 @@
   
   [Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
 
-- <span id="git">`Git`</span>
+- <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
   [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
   
