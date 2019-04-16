@@ -1,5 +1,7 @@
 # 整理我在[`Github`](https://github.com/Rain120)上收集的学习资料
 
+[数学](#math)
+
 - 英语
 
   [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
@@ -22,7 +24,7 @@
     
     
   
-- 数学
+- <span id="math">数学</span>
   
   [Code for A Programmer's Introduction to Mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics)
   
