@@ -177,6 +177,8 @@
   [TensorFlow教程和初学者示例（支持TF v1和v2）](https://github.com/aymericdamien/TensorFlow-Examples)
   
   [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)
+  
+  [机器学习指南](https://github.com/clone95/Virgilio): Your new Mentor for Data Science E-Learning.
 
 [Back Top](#top)
 
