@@ -49,6 +49,8 @@
   [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): `FreeCodeCamp`网站是一个提供免费编程学习的社区，里面提供的教程知识都非常基础，即使你完全不懂编程，也可以直接上手学习。
   
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
+  
+  [面向开发人员的前端技术列表](https://github.com/alienzhou/frontend-tech-list)
 
   - [`Node`](https://github.com/nodejs/node)
   
@@ -88,6 +90,10 @@
     
     [v-charts](https://github.com/ElemeFE/v-charts): 基于 Vue2.0 和 ECharts 封装的图表组件
   
+  - [`Webpack`](https://webpack.js.org/) -- [Github](https://github.com/webpack/webpack)
+    
+    [全面的Webpack教程《深入浅出Webpack》电子书](https://github.com/gwuhaolin/dive-into-webpack)
+    
   - [`Taro`](https://github.com/NervJS/taro)
   
     [多端统一开发框架 Taro 优秀学习资源汇总](https://github.com/NervJS/awesome-taro)
@@ -110,6 +116,14 @@
   - `CSS`
   
     [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
+    
+    [Animate.css](https://github.com/daneden/animate.css): 一个CSS动画的跨浏览器库。 因为易于使用易于使用。
+    
+    [Hover](https://github.com/IanLunn/Hover): CSS3动力悬停效果的集合，适用于链接，按钮，徽标，SVG，特色图像等。 轻松应用于您自己的元素，修改或仅用于灵感。 提供CSS，Sass和LESS。[地址](http://ianlunn.github.io/Hover/)
+    
+    [water.css](https://github.com/kognise/water.css): 一个just-add-css集合的样式，使简单的网站更好一点
+    
+    [normalize.css](https://github.com/necolas/normalize.css): CSS重置的现代替代方案
   
   - `Jquery`
   
@@ -179,6 +193,8 @@
   [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)
   
   [机器学习指南](https://github.com/clone95/Virgilio): Your new Mentor for Data Science E-Learning.
+  
+  [机器学习资源](https://github.com/RemoteML/bestofml)
 
 [Back Top](#top)
 
