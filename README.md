@@ -242,6 +242,8 @@
   
   [前端求职面试问题](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
   
+  [Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview): 每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
+  
 [Back Top](#top)
 
 - <span id="tools-extensions">工具 & 插件</span>
