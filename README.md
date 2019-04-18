@@ -166,9 +166,7 @@
   
   [VIP cheatsheets for Stanford's CS 229 Deep Learning](https://github.com/afshinea/stanford-cs-229-machine-learning): 深度学习 229
   
-  [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials): 该教程将与斯坦福大学《TensorFlow for Deep Learning Research》课程一起进行。[地址](https://web.stanford.edu/class/cs20si/)
-
-作者把课程大纲、幻灯片和讲义都放在了网站上，每周作业和示例放在代码仓库中。
+  [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials): 该教程将与斯坦福大学《TensorFlow for Deep Learning Research》课程一起进行。[地址](https://web.stanford.edu/class/cs20si/) 作者把课程大纲、幻灯片和讲义都放在了网站上，每周作业和示例放在代码仓库中。
   
   [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   
