@@ -195,6 +195,8 @@
   [机器学习指南](https://github.com/clone95/Virgilio): Your new Mentor for Data Science E-Learning.
   
   [机器学习资源](https://github.com/RemoteML/bestofml)
+  
+  [AiLearning](https://github.com/apachecn/AiLearning): AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 
 [Back Top](#top)
 
