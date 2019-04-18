@@ -195,6 +195,8 @@
   [机器学习资源](https://github.com/RemoteML/bestofml)
   
   [AiLearning](https://github.com/apachecn/AiLearning): AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+  
+  [CS 109 数据科学](https://github.com/cs109/2015): 这是哈佛大学课程的实际录像。上面的数据科学过程信息图就来自这个课程。[地址](http://cs109.github.io/2015/)
 
 [Back Top](#top)
 
@@ -243,6 +245,8 @@
   [前端求职面试问题](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
   
   [Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview): 每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
+  
+  [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience): 2019届秋招面经集合
   
 [Back Top](#top)
 
