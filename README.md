@@ -112,6 +112,8 @@
       - [中文网站](https://zh.javascript.info/): [Github](https://github.com/xitu/javascript-tutorial-zh/tree/zh-hans)
   
     [30 秒学 JavaScript](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+    
+    [JavaScript风格指南](https://github.com/alivebao/clean-code-js): [代码整洁之道 中文完整版 pdf-带书签](https://github.com/Rain120/Free-Source)    
   
   - `CSS`
   
@@ -197,6 +199,8 @@
   [AiLearning](https://github.com/apachecn/AiLearning): AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
   
   [CS 109 数据科学](https://github.com/cs109/2015): 这是哈佛大学课程的实际录像。上面的数据科学过程信息图就来自这个课程。[地址](http://cs109.github.io/2015/)
+  
+  [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
 
 [Back Top](#top)
 
