@@ -165,6 +165,8 @@
   [A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
   
   [An awesome & curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome)
+  
+  [Awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps): 精选软件开发路线图的精选列表
 
 - <span id="al-ml-dl">算法 + 机器学习 + 深度学习</span>
 
