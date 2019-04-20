@@ -70,6 +70,8 @@
   
     [從零開始學 ReactJS](https://github.com/kdchang/reactjs101): 一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。[Gitbook](https://www.gitbook.com/book/kdchang/react101/details)
     
+    [react-from-zero](https://github.com/kay-is/react-from-zero): 通过在代码中加入注释的方式，向学生说明 React 的相关概念。
+    
     [一些简单的React.js演示](https://github.com/ruanyf/react-demos): a collection of simple demos of React.js
     
     [使用React进行列表的美观且可访问的拖放](https://github.com/atlassian/react-beautiful-dnd): Beautiful and accessible drag and drop for lists with React
@@ -136,6 +138,8 @@
   [北大多领域中文分词工具](https://github.com/lancopku/pkuseg-python)
   
   [Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
+  
+  [python-lessons](https://github.com/shannonturner/python-lessons): 一个为女性提供免费且适合初学者课程的组织
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
@@ -201,6 +205,12 @@
   [CS 109 数据科学](https://github.com/cs109/2015): 这是哈佛大学课程的实际录像。上面的数据科学过程信息图就来自这个课程。[地址](http://cs109.github.io/2015/)
   
   [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
+  
+  [deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera): 一个有用的自学教学指南，并从这个深度学习系列课程中阅读更多关于概念和解决方案。
+  
+  [CADL](https://github.com/pkmital/CADL): 包含一些方便入门的工具入门文档。
+  
+  [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera): 约翰霍普金斯大学的 Coursera 数据科学课程.
 
 [Back Top](#top)
 
@@ -228,9 +238,15 @@
   
   [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
   
-- <span id="others">其他</span>
+- <span id="others">其他 & 竞赛</span>
+
+  [textbook-curriculum](https://github.com/Ada-Developers-Academy/textbook-curriculum): 帮助学生提前熟悉未来他们会在大型项目中应用的工具、概念和词汇。
 
   [CDCS 中国数据竞赛优胜解集锦](https://github.com/geekinglcq/CDCS)
+  
+  [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation): 为期 11 周的编程竞赛准备课程，旨在通过算法挑战帮助你准备面试和改进算法思维。
+
+熟悉编程知识和数据结构，将有助于你学习该高级课程
 
 [Back Top](#top)
   
