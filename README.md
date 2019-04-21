@@ -38,7 +38,7 @@
   
   [《玩转线性代数》示例代码](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
 
-- <span id="front-end">前端</span>
+- <span id="front-end">前端</span> [学习资源](https://rain120.github.io/study-notes/#/resources/guide)
 
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
   
@@ -213,6 +213,8 @@
   [CADL](https://github.com/pkmital/CADL): 包含一些方便入门的工具入门文档。
   
   [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera): 约翰霍普金斯大学的 Coursera 数据科学课程.
+  
+  [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet): 用深度学习对对联。
 
 [Back Top](#top)
 
@@ -227,6 +229,8 @@
   [Nyspider](https://github.com/Nyloner/Nyspider): 各种网站爬虫数据
   
   [awesome-spider](https://github.com/facert/awesome-spider): 收集各种爬虫 （默认爬虫语言为 python
+  
+  [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
 - <span id="u-resources">各大高校资源</span>
 
@@ -277,6 +281,12 @@
   [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw-dev/xg2xg): Google 一名前员工总结最佳开发工具大全
   
   [Notion](https://www.notion.so/?r=a8b6e24bd86f4597a0b26266f6f8aee9): 一个笔记记录和协作应用程序，具有markdown支持，还集成了任务，wiki和数据库, 支持插件、`Windows`, `Mac`。
+  
+  - 下载
+    
+    [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
+    
+    [proxyee-down](https://github.com/proxyee-down-org/proxyee-down): Proxyee Down 是一款开源的免费 HTTP 高速下载器，底层使用netty开发，支持自定义 HTTP 请求下载且支持扩展功能，可以通过安装扩展实现特殊的下载需求。
   
   - `Github`
   
