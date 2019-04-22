@@ -28,7 +28,7 @@
     
     [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): Enhance your written communication everywhere you type!
     
-    
+    [dadda-translate-crx](https://github.com/waynecz/dadda-translate-crx): 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步。
   
 - <span id="math">数学</span>
   
