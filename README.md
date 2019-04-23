@@ -140,6 +140,8 @@
   [Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
   
   [python-lessons](https://github.com/shannonturner/python-lessons): 一个为女性提供免费且适合初学者课程的组织
+  
+  [Python-100-Days](https://github.com/jackfrued/Python-100-Days): Python - 100天从新手到大师
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
