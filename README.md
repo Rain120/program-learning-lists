@@ -284,6 +284,8 @@
   [CDCS 中国数据竞赛优胜解集锦](https://github.com/geekinglcq/CDCS)
   
   [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation): 为期 11 周的编程竞赛准备课程，旨在通过算法挑战帮助你准备面试和改进算法思维。
+  
+  [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io/): 在线`Nginx`编辑器。
 
 [Back Top](#top)
 
@@ -328,6 +330,8 @@
     [annie](https://github.com/iawia002/): 快速，简单，干净的视频下载器
     
     [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh/): 谷歌在线压缩图片
+    
+    [Send](https://github.com/mozilla/send): 来自`Firefox`的简单私密文件共享, [在线地址](https://send.firefox.com/)
   
   - `Github`
   
