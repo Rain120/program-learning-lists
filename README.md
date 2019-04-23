@@ -4,9 +4,9 @@
 
 [英语](#english) | [数学](#math) | [前端](#front-end) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
 
-[Git](#git) | [Java](#java) | [计算机资料 + 资源](#pc-resources) | [算法 + 机器学习 + 深度学习](#al-ml-dl) | [爬虫](#spider)
+[Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法 + 机器学习 + 深度学习](#al-ml-dl) | [爬虫](#spider)
 
-[各大高校资源](#u-resources) | [其他](#others) | [面试](#interview) | [工具 & 插件](#tools-extensions)
+[技术周刊 & 团队 & 大佬博客](#skill-groups) | [各大高校资源](#u-resources) | [其他](#others) | [面试](#interview) | [工具 & 插件](#tools-extensions)
 
 - <span id="english">英语</span>
 
@@ -152,13 +152,33 @@
   [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
   
   [可视化GitHub配置文件的工具](https://github.com/tipsy/profile-summary-for-github)
+
+- <span id="go">`GO`</span>
+
+  [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): The Way to Go》中文译本，中文正式名《Go 入门指南》
   
+  [go-patterns](https://github.com/tmrts/go-patterns): Go设计模式，方法和常用语法惯用语法。[地址](http://tmrts.com/go-patterns/)
+的精选列表
+
+  [go2-book](https://github.com/chai2010/go2-book): 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
+  
+  [minikube](https://github.com/kubernetes/minikube): 本地起k8s。
+  
+  [bleve](https://github.com/blevesearch/bleve): go的现代文本索引库
+
 [Back Top](#top)
 
 - <span id="java">`Java`</span>
 
   [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn): 包括开发库、开发工具、网站、博客、微信、微博等。
+  
+  [JavaGuide](https://github.com/Snailclimb/JavaGuide): 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识.[]()
 
+- <span id="linux">`Linux`</span>
+
+  [linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。[地址](https://git.io/linux)
+  
+  [Linux 命令大全](http://man.linuxde.net/): 可以查询您所需要的Linux命令教程和相关实例。
 
 - <span id="pc-resources">计算机资料 + 资源</span>
 
@@ -167,6 +187,8 @@
   [An awesome & curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome)
   
   [Awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps): 精选软件开发路线图的精选列表
+
+[Back Top](#top)
 
 - <span id="al-ml-dl">算法 + 机器学习 + 深度学习</span>
 
@@ -215,12 +237,12 @@
   [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera): 约翰霍普金斯大学的 Coursera 数据科学课程.
   
   [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet): 用深度学习对对联。
+  
+  [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions): 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 
 [Back Top](#top)
 
 - <span id="spider">爬虫</span>
-
-  [annie](https://github.com/iawia002/annie): Fast, simple and clean video downloader
   
   [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
   
@@ -231,6 +253,17 @@
   [awesome-spider](https://github.com/facert/awesome-spider): 收集各种爬虫 （默认爬虫语言为 python
   
   [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+
+
+[Back Top](#top)
+
+- <span id="skill-groups">技术周刊 & 团队 & 大佬博客</span>
+
+  [ruanyf/weekly](https://github.com/ruanyf/weekly): 技术分享周刊，每周五发布
+  
+  [iv-web/weekly](https://github.com/iv-web/weekly): 由腾讯IVWEB出品的《IVWEB技术周刊》
+  
+  [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs): 收集优质的中文前端博客
 
 - <span id="u-resources">各大高校资源</span>
 
@@ -252,10 +285,8 @@
   
   [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation): 为期 11 周的编程竞赛准备课程，旨在通过算法挑战帮助你准备面试和改进算法思维。
 
-熟悉编程知识和数据结构，将有助于你学习该高级课程
-
 [Back Top](#top)
-  
+
 - <span id="interview">面试</span>
 
   [FEX 面试问题](https://github.com/fex-team/interview-questions)
@@ -282,11 +313,21 @@
   
   [Notion](https://www.notion.so/?r=a8b6e24bd86f4597a0b26266f6f8aee9): 一个笔记记录和协作应用程序，具有markdown支持，还集成了任务，wiki和数据库, 支持插件、`Windows`, `Mac`。
   
-  - 下载
+  [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes): 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类。
+  
+  [Mac tools](https://github.com/Louiszhai/tool): 开发效率提升：Mac生产力工具链推荐。
+  
+  - 下载 & 图片处理 & 文件
     
     [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
     
     [proxyee-down](https://github.com/proxyee-down-org/proxyee-down): Proxyee Down 是一款开源的免费 HTTP 高速下载器，底层使用netty开发，支持自定义 HTTP 请求下载且支持扩展功能，可以通过安装扩展实现特殊的下载需求。
+    
+    [Aria2](https://github.com/aria2/aria2): aria2是一个轻量级的多协议和多源，跨平台下载实用程序，在命令行中运行。 它支持HTTP / HTTPS，FTP，SFTP，BitTorrent和Metalink。
+    
+    [annie](https://github.com/iawia002/): 快速，简单，干净的视频下载器
+    
+    [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh/): 谷歌在线压缩图片
   
   - `Github`
   
