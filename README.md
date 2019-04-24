@@ -154,6 +154,8 @@
   [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
   
   [可视化GitHub配置文件的工具](https://github.com/tipsy/profile-summary-for-github)
+  
+  [Backlog Git Guide](https://backlog.com/git-tutorial/): [中文地址](https://backlog.com/git-tutorial/cn/)
 
 - <span id="go">`GO`</span>
 
