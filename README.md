@@ -4,9 +4,9 @@
 
 [英语](#english) | [数学](#math) | [前端](#front-end) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
 
-[Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法 + 机器学习 + 深度学习](#al-ml-dl) | [爬虫](#spider)
+[Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法](#al) | [Leetcode](#leeetcode)
 
-[技术周刊 & 团队 & 大佬博客](#skill-groups) | [各大高校资源](#u-resources) | [其他](#others) | [面试](#interview) | [工具 & 插件](#tools-extensions)
+[机器学习 + 深度学习](#ml-dl) | [爬虫](#spider) | [技术周刊 & 团队 & 大佬博客](#skill-groups) | [各大高校资源](#u-resources) | [其他](#others) | [面试](#interview) | [工具 & 插件](#tools-extensions)
 
 - <span id="english">英语</span>
 
@@ -194,7 +194,25 @@
 
 [Back Top](#top)
 
-- <span id="al-ml-dl">算法 + 机器学习 + 深度学习</span>
+- <span id="al">算法</span>
+
+  [结构化算法刷题训练指南](https://github.com/apachecn/awesome-algorithm)
+  
+  [可视化代码算法的交互式在线平台](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code
+  
+  [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): 所有算法都在Python中实现
+  
+  [Jeff的算法手册](https://github.com/jeffgerickson/algorithms): Jeff的算法手册，笔记等的错误记录
+
+- <span id="leetcode">Leetcode</span>
+
+  [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
+  
+  [C++ for Leetcode](https://github.com/haoel/leetcode): C++ 实现
+  
+  [Python & JAVA Solutions for Leetcode](https://github.com/qiyuangong/leetcode): Python & Java 实现
+
+- <span id="ml-dl">机器学习 + 深度学习</span>
 
   [VIP cheatsheets for Stanford's CS 230 Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning): 深度学习 230
   
@@ -210,11 +228,7 @@
   
   [Book about interpretable machine learning](https://github.com/christophM/interpretable-ml-book)
   
-  [结构化算法刷题训练指南](https://github.com/apachecn/awesome-algorithm)
-  
   [Play couplet with seq2seq model. 用深度学习对对联](https://github.com/wb14123/seq2seq-couplet)
-  
-  [可视化代码算法的交互式在线平台](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code
   
   [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   
