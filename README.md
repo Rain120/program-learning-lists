@@ -4,7 +4,7 @@
 
 [英语](#english) | [数学](#math) | [前端](#front-end) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
 
-[Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法](#al) | [Leetcode](#leeetcode)
+[Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法](#al) | [Leetcode](#leeetcode) | [CS Courses](#cs)
 
 [机器学习 + 深度学习](#ml-dl) | [爬虫](#spider) | [技术周刊 & 团队 & 大佬博客](#skill-groups) | [各大高校资源](#u-resources) | [其他](#others) | [面试](#interview) | [工具 & 插件](#tools-extensions)
 
@@ -166,6 +166,8 @@
 
   [go2-book](https://github.com/chai2010/go2-book): 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
   
+  [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap): Go 开发者路线图
+  
   [minikube](https://github.com/kubernetes/minikube): 本地起k8s。
   
   [bleve](https://github.com/blevesearch/bleve): go的现代文本索引库
@@ -212,6 +214,16 @@
   
   [Python & JAVA Solutions for Leetcode](https://github.com/qiyuangong/leetcode): Python & Java 实现
 
+- <span id="cs">CS Courses</span>
+  
+  [CS 109 数据科学](https://github.com/cs109/2015): 这是哈佛大学课程的实际录像。上面的数据科学过程信息图就来自这个课程。[地址](http://cs109.github.io/2015/)
+  
+  [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera): 约翰霍普金斯大学的 Coursera 数据科学课程.
+  
+  [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+  
+  [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses): 在互联网上分散的大学页面中有很多隐藏的宝藏。 这份清单试图揭示那些令人敬畏的CS课程，这些课程可以免费在线提供高质量的材料，即作业，讲座，笔记，阅读和考试。
+  
 - <span id="ml-dl">机器学习 + 深度学习</span>
 
   [VIP cheatsheets for Stanford's CS 230 Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning): 深度学习 230
@@ -230,8 +242,6 @@
   
   [Play couplet with seq2seq model. 用深度学习对对联](https://github.com/wb14123/seq2seq-couplet)
   
-  [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-  
   [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
   
   [TensorFlow教程和初学者示例（支持TF v1和v2）](https://github.com/aymericdamien/TensorFlow-Examples)
@@ -244,15 +254,9 @@
   
   [AiLearning](https://github.com/apachecn/AiLearning): AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
   
-  [CS 109 数据科学](https://github.com/cs109/2015): 这是哈佛大学课程的实际录像。上面的数据科学过程信息图就来自这个课程。[地址](http://cs109.github.io/2015/)
-  
-  [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
-  
   [deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera): 一个有用的自学教学指南，并从这个深度学习系列课程中阅读更多关于概念和解决方案。
   
   [CADL](https://github.com/pkmital/CADL): 包含一些方便入门的工具入门文档。
-  
-  [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera): 约翰霍普金斯大学的 Coursera 数据科学课程.
   
   [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet): 用深度学习对对联。
   
@@ -304,6 +308,8 @@
   [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation): 为期 11 周的编程竞赛准备课程，旨在通过算法挑战帮助你准备面试和改进算法思维。
   
   [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io/): 在线`Nginx`编辑器。
+  
+  [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
 
 [Back Top](#top)
 
