@@ -51,6 +51,8 @@
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
   
   [面向开发人员的前端技术列表](https://github.com/alienzhou/frontend-tech-list)
+  
+  [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking): [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 
   - [`Node`](https://github.com/nodejs/node)
   
@@ -142,6 +144,8 @@
   [python-lessons](https://github.com/shannonturner/python-lessons): 一个为女性提供免费且适合初学者课程的组织
   
   [Python-100-Days](https://github.com/jackfrued/Python-100-Days): Python - 100天从新手到大师
+  
+  [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): 数据科学Python笔记本：深度学习（TensorFlow，Theano，Caffe，Keras），scikit-learn，Kaggle，大数据（Spark，Hadoop MapReduce，HDFS），matplotlib，pandas，NumPy，SciPy，Python要点。
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
@@ -178,7 +182,9 @@
 
   [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn): 包括开发库、开发工具、网站、博客、微信、微博等。
   
-  [JavaGuide](https://github.com/Snailclimb/JavaGuide): 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识.[]()
+  [JavaGuide](https://github.com/Snailclimb/JavaGuide): [Java学习+面试指南](https://snailclimb.top/JavaGuide/#/)一份涵盖大部分Java程序员所需要掌握的核心知识.
+  
+  [JGrowing](https://github.com/javagrowing/JGrowing): Java成长路线，但学到不仅仅是Java。
 
 - <span id="linux">`Linux`</span>
 
@@ -352,6 +358,8 @@
     [Aria2](https://github.com/aria2/aria2): aria2是一个轻量级的多协议和多源，跨平台下载实用程序，在命令行中运行。 它支持HTTP / HTTPS，FTP，SFTP，BitTorrent和Metalink。
     
     [annie](https://github.com/iawia002/): 快速，简单，干净的视频下载器
+    
+    [baiduyun](https://github.com/syhyz1990/baiduyun): 油猴脚本 一个脚本搞定百度网盘下载
     
     [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh/): 谷歌在线压缩图片
     
