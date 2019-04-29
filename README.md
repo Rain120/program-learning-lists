@@ -191,6 +191,8 @@
   [linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。[地址](https://git.io/linux)
   
   [Linux 命令大全](http://man.linuxde.net/): 可以查询您所需要的Linux命令教程和相关实例。
+  
+  [命令行的艺术](https://github.com/jlevy/the-art-of-command-line): 主要讲解 Linux 命令下的，一些实用的命令
 
 - <span id="pc-resources">计算机资料 + 资源</span>
 
