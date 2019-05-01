@@ -275,6 +275,8 @@
   [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet): 用深度学习对对联。
   
   [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions): 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
+  
+ [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets): 数据科学相关的速查表，内容包含 `Python`、`R`、大数据、机器学习、深度学习等分类。
 
 [Back Top](#top)
 
