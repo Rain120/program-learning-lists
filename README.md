@@ -152,6 +152,12 @@
   [Python-100-Days](https://github.com/jackfrued/Python-100-Days): Python - 100天从新手到大师
   
   [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): 数据科学Python笔记本：深度学习（TensorFlow，Theano，Caffe，Keras），scikit-learn，Kaggle，大数据（Spark，Hadoop MapReduce，HDFS），matplotlib，pandas，NumPy，SciPy，Python要点。
+  
+  [Douyin-Bot](https://github.com/wangshub/Douyin-Bot): `Python` 抖音机器人，论如何在抖音上找到漂亮小姐姐
+  
+  [manim](https://github.com/3b1b/manim): Manim是解释性数学视频的动画引擎, 用于以编程方式创建精确的动画。
+  
+  [XSStrike](https://github.com/s0md3v/XSStrike): `XSStrike`是一个`Cross Site Scripting`检测套件，配备四个手写解析器，一个智能有效负载生成器，一个强大的模糊引擎和一个非常快速的爬虫。
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
