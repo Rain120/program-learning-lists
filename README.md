@@ -52,6 +52,8 @@
   
   [面向开发人员的前端技术列表](https://github.com/alienzhou/frontend-tech-list)
   
+  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): 2019年Web开发人员的路线图, [roadmap.sh](https://roadmap.sh/)
+  
   [front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019): 这个受欢迎的前端详细指南于本年度再次回归。更新了大量有用的资源、学习资料和开发工具。内容非常全面，值得一看。[在线观看](https://frontendmasters.com/books/front-end-handbook/2019/)
   
   [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking): [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
