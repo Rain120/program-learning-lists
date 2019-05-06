@@ -125,7 +125,9 @@
   
     [30 秒学 JavaScript](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
     
-    [JavaScript风格指南](https://github.com/alivebao/clean-code-js): [代码整洁之道 中文完整版 pdf-带书签](https://github.com/Rain120/Free-Source)    
+    [JavaScript风格指南](https://github.com/alivebao/clean-code-js): [代码整洁之道 中文完整版 pdf-带书签](https://github.com/Rain120/Free-Source)
+    
+    [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm): 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。
   
   - `CSS`
   
