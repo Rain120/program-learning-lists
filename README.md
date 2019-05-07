@@ -75,6 +75,8 @@
     [Node.js模块，用于解析表单数据，尤其是文件上载。](https://github.com/felixge/node-formidable): A node.js module for parsing form data, especially file uploads.
   
     [生于使用Node.js和Koa构建更好的企业框架和应用程序](https://github.com/eggjs/egg): Born to build better enterprise frameworks and apps with Node.js & Koa
+    
+    [nodebestpractices](https://github.com/i0natan/nodebestpractices): Node.js 最佳实践
   
   - [`React`](https://github.com/facebook/react)
   
