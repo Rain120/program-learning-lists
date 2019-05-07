@@ -2,7 +2,7 @@
 
 ### <span id="top">快速导航</span>
 
-[英语](#english) | [数学](#math) | [前端](#front-end) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
+[英语](#english) | [数学](#math) | [前端](#front-end) | [前端插件库](#fe-plugins) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
 
 [Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法](#al) | [Leetcode](#leeetcode) | [CS Courses](#cs)
 
@@ -109,6 +109,12 @@
   - [`Taro`](https://github.com/NervJS/taro)
   
     [多端统一开发框架 Taro 优秀学习资源汇总](https://github.com/NervJS/awesome-taro)
+    
+[Back Top](#top)
+
+- <span id="fe-plugins">前端插件库</span>
+
+  [fullcalendar](https://github.com/fullcalendar/fullcalendar): 支持时间流、多语言、定义样式主题等等功能.
    
 [Back Top](#top)
 
