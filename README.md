@@ -2,7 +2,7 @@
 
 ### <span id="top">快速导航</span>
 
-[英语](#english) | [数学](#math) | [前端](#front-end) | [前端插件库](#fe-plugins) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [Python](#py)
+[英语](#english) | [数学](#math) | [前端](#front-end) | [前端插件库](#fe-plugins) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [娱乐](#entertainment) | [Python](#py)
 
 [Git](#git) | [Go](#go) | [Java](#java) | [Linux](#linux) | [计算机资料 + 资源](#pc-resources) | [算法](#al) | [Leetcode](#leeetcode) | [CS Courses](#cs)
 
@@ -150,10 +150,18 @@
     [normalize.css](https://github.com/necolas/normalize.css): CSS重置的现代替代方案
     
     [css-transform](https://github.com/alterebro/css-transform): 能直观展示`css tranform`各种属性的网站
+    
+    [cssfx](https://github.com/jolaleye/cssfx): 非常简单的点击复制CSS效果
   
   - `Jquery`
   
     [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery): Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+
+- <span id="entertainment">娱乐</span>
+
+  [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web): 使用MakeGirlsMoe创建动画角色
+
+[Back Top](#top)
 
 - <span id="py">`Python`</span>
 
@@ -257,6 +265,8 @@
   [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   
   [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses): 在互联网上分散的大学页面中有很多隐藏的宝藏。 这份清单试图揭示那些令人敬畏的CS课程，这些课程可以免费在线提供高质量的材料，即作业，讲座，笔记，阅读和考试。
+  
+  [learning](https://github.com/amitness/learning): 数据科学学习
   
 - <span id="ml-dl">机器学习 + 深度学习</span>
 
