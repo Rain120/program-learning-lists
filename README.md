@@ -160,6 +160,8 @@
 - <span id="entertainment">娱乐</span>
 
   [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web): 使用MakeGirlsMoe创建动画角色
+  
+  [fusuma](https://github.com/hiroppy/fusuma): Markdown PPT演示
 
 [Back Top](#top)
 
