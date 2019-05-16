@@ -182,6 +182,8 @@
   [manim](https://github.com/3b1b/manim): Manim是解释性数学视频的动画引擎, 用于以编程方式创建精确的动画。
   
   [XSStrike](https://github.com/s0md3v/XSStrike): `XSStrike`是一个`Cross Site Scripting`检测套件，配备四个手写解析器，一个智能有效负载生成器，一个强大的模糊引擎和一个非常快速的爬虫。
+  
+  [Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese): 史上最全的PyTorch学习资源汇总, PyTorch是一个开源的Python机器学习库，基于Torch， 应用于人工智能领域，如自然语言处理。 
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
@@ -315,6 +317,10 @@
  [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets): 数据科学相关的速查表，内容包含 `Python`、`R`、大数据、机器学习、深度学习等分类。
  
  [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course): Python的机器学习课程
+ 
+ [konstellate](https://github.com/containership/konstellate): Kubernetes Application 可视化 GUI 库
+ 
+ [microsoft/SPTAG](https://github.com/microsoft/SPTAG): 分布式近似最近邻域搜索（ANN）库，为大规模矢量搜索场景提供高质量矢量索引构建，搜索和分布式在线服务工具包。
 
 [Back Top](#top)
 
