@@ -91,6 +91,8 @@
     [基于Spring物理的React动画库](https://github.com/react-spring/react-spring): A spring physics based React animation library
     
     [使用React创建惊人的360和VR内容](https://github.com/facebook/react-360): Create amazing 360 and VR content using React
+    
+    [react-practice](https://github.com/mocheng/react-practice): 《React实战：设计模式和最佳实践》源代码
   
   - [`Vue`](https://github.com/vuejs/vue)
   
@@ -184,6 +186,8 @@
   [XSStrike](https://github.com/s0md3v/XSStrike): `XSStrike`是一个`Cross Site Scripting`检测套件，配备四个手写解析器，一个智能有效负载生成器，一个强大的模糊引擎和一个非常快速的爬虫。
   
   [Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese): 史上最全的PyTorch学习资源汇总, PyTorch是一个开源的Python机器学习库，基于Torch， 应用于人工智能领域，如自然语言处理。 
+  
+  [Hands-On-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python): Packt发布的Python动手强化学习的Jupyter笔记本
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
@@ -298,6 +302,8 @@
   
   [TensorFlow教程和初学者示例（支持TF v1和v2）](https://github.com/aymericdamien/TensorFlow-Examples)
   
+  [handson-ml](https://github.com/ageron/handson-ml): 一系列Jupyter笔记本，使用Scikit-Learn和TensorFlow引导您完成python中机器学习和深度学习的基础知识。
+  
   [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io)
   
   [机器学习指南](https://github.com/clone95/Virgilio): Your new Mentor for Data Science E-Learning.
@@ -346,6 +352,8 @@
   [iv-web/weekly](https://github.com/iv-web/weekly): 由腾讯IVWEB出品的《IVWEB技术周刊》
   
   [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs): 收集优质的中文前端博客
+  
+  [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): AlloyTeam代码规范
 
 - <span id="u-resources">各大高校资源</span>
 
