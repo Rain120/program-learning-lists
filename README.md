@@ -138,6 +138,8 @@
     [JavaScript风格指南](https://github.com/alivebao/clean-code-js): [代码整洁之道 中文完整版 pdf-带书签](https://github.com/Rain120/Free-Source)
     
     [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm): 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。
+    
+    [astexplorer](https://github.com/fkling/astexplorer): 用于探索各种解析器生成的AST的Web工具。[Web](https://astexplorer.net/)
   
   - `CSS`
   
@@ -221,6 +223,8 @@
   [bleve](https://github.com/blevesearch/bleve): go的现代文本索引库
   
   [go-perfbook](https://github.com/dgryski/go-perfbook): 编写和优化Go代码
+  
+  [reading-go](https://github.com/developer-learning/reading-go): Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。
 
 [Back Top](#top)
 
@@ -239,6 +243,8 @@
   [Linux 命令大全](http://man.linuxde.net/): 可以查询您所需要的Linux命令教程和相关实例。
   
   [命令行的艺术](https://github.com/jlevy/the-art-of-command-line): 主要讲解 Linux 命令下的，一些实用的命令
+  
+  [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial): 《Java 程序员眼中的 Linux》
 
 - <span id="pc-resources">计算机资料 + 资源</span>
 
@@ -354,6 +360,8 @@
   [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs): 收集优质的中文前端博客
   
   [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): AlloyTeam代码规范
+  
+  [front-end-collect](https://github.com/foru17/front-end-collect): 关注的前端开发相关的优秀网站、博客、以及活跃开发者
 
 - <span id="u-resources">各大高校资源</span>
 
@@ -378,6 +386,8 @@
   [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io/): 在线`Nginx`编辑器。
   
   [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
+  
+  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): 一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。
 
 [Back Top](#top)
 
