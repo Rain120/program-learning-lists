@@ -245,6 +245,8 @@
   [命令行的艺术](https://github.com/jlevy/the-art-of-command-line): 主要讲解 Linux 命令下的，一些实用的命令
   
   [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial): 《Java 程序员眼中的 Linux》
+  
+  [effective-shell](https://github.com/dwmkerr/effective-shell): 有效的Shell系列。[在线查看](https://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/)
 
 - <span id="pc-resources">计算机资料 + 资源</span>
 
