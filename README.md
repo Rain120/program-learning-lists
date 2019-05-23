@@ -257,6 +257,8 @@
   [An awesome & curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome)
   
   [Awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps): 精选软件开发路线图的精选列表
+  
+  [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): 免费的计算机编程类中文书籍
 
 [Back Top](#top)
 
