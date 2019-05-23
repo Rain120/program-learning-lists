@@ -363,6 +363,16 @@
   
   [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide): AlloyTeam代码规范
   
+  [alibaba/p3c](https://github.com/alibaba/p3c): 阿里巴巴Java开发手册
+  
+  [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)
+  
+  [网易CSS规范](http://nec.netease.com/standard)
+  
+  [编写「可读」代码的实践](http://taobaofed.org/blog/2017/01/05/writing-readable-code/)
+  
+  [o2team/guide](https://github.com/o2team/guide): O2前端规范文档 -> [前端代码规范](https://guide.aotu.io/docs/index.html)
+  
   [front-end-collect](https://github.com/foru17/front-end-collect): 关注的前端开发相关的优秀网站、博客、以及活跃开发者
 
 - <span id="u-resources">各大高校资源</span>
