@@ -119,6 +119,8 @@
 - <span id="fe-plugins">前端插件库</span>
 
   [fullcalendar](https://github.com/fullcalendar/fullcalendar): 支持时间流、多语言、定义样式主题等等功能.
+  
+  [editor.js](https://github.com/codex-team/editor.js): Editor.js是一个Block-Styled编辑器。
    
 [Back Top](#top)
 
@@ -335,6 +337,8 @@
  [konstellate](https://github.com/containership/konstellate): Kubernetes Application 可视化 GUI 库
  
  [microsoft/SPTAG](https://github.com/microsoft/SPTAG): 分布式近似最近邻域搜索（ANN）库，为大规模矢量搜索场景提供高质量矢量索引构建，搜索和分布式在线服务工具包。
+ 
+ [pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式推导解析，[在线阅读地址](https://datawhalechina.github.io/pumpkin-book)
 
 [Back Top](#top)
 
@@ -426,6 +430,8 @@
 - <span id="tools-extensions">工具 & 插件</span>
 
   [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw-dev/xg2xg): Google 一名前员工总结最佳开发工具大全
+  
+  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): 本项目收集了许多很棒的设计工具，诸如动画工具、AR、字体工具、渐变工具、代码工具等等
   
   [Notion](https://www.notion.so/?r=a8b6e24bd86f4597a0b26266f6f8aee9): 一个笔记记录和协作应用程序，具有markdown支持，还集成了任务，wiki和数据库, 支持插件、`Windows`, `Mac`。
   
