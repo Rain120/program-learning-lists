@@ -281,6 +281,8 @@
   [C++ for Leetcode](https://github.com/haoel/leetcode): C++ 实现
   
   [Python & JAVA Solutions for Leetcode](https://github.com/qiyuangong/leetcode): Python & Java 实现
+  
+  [algorithm](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的50个代码实现
 
 - <span id="cs">CS Courses</span>
   
