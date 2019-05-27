@@ -192,6 +192,8 @@
   [Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese): 史上最全的PyTorch学习资源汇总, PyTorch是一个开源的Python机器学习库，基于Torch， 应用于人工智能领域，如自然语言处理。 
   
   [Hands-On-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python): Packt发布的Python动手强化学习的Jupyter笔记本
+  
+  [automatetheboringstuff](https://automatetheboringstuff.com/)
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
@@ -251,6 +253,8 @@
   [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial): 《Java 程序员眼中的 Linux》
   
   [effective-shell](https://github.com/dwmkerr/effective-shell): 有效的Shell系列。[在线查看](https://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/)
+  
+  [Explain Shell](https://github.com/idank/explainshell): 一个解释 `shell` 的网站，你不理解某个命令的时候，在网站输入这个命令，网站会自动帮你分解解释对应参数的意思。[Explain Shell Online](https://explainshell.com/)
 
 - <span id="pc-resources">计算机资料 + 资源</span>
 
