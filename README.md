@@ -158,6 +158,8 @@
     [css-transform](https://github.com/alterebro/css-transform): 能直观展示`css tranform`各种属性的网站
     
     [cssfx](https://github.com/jolaleye/cssfx): 非常简单的点击复制CSS效果
+    
+    [fancy-border-radius](https://github.com/9elements/fancy-border-radius):  border-radius in CSS
   
   - `Jquery`
   
@@ -265,6 +267,8 @@
   [Awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps): 精选软件开发路线图的精选列表
   
   [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): 免费的计算机编程类中文书籍
+  
+  [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
 
 [Back Top](#top)
 
@@ -299,6 +303,8 @@
   [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses): 在互联网上分散的大学页面中有很多隐藏的宝藏。 这份清单试图揭示那些令人敬畏的CS课程，这些课程可以免费在线提供高质量的材料，即作业，讲座，笔记，阅读和考试。
   
   [learning](https://github.com/amitness/learning): 数据科学学习
+  
+  [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): 带视频的计算机科学课程清单。
   
 - <span id="ml-dl">机器学习 + 深度学习</span>
 
