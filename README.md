@@ -357,6 +357,8 @@
  [pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式推导解析，[在线阅读地址](https://datawhalechina.github.io/pumpkin-book)
  
  [Machine-Learning](https://github.com/shunliz/Machine-Learning): 机器学习原理笔记整理。前半部分关注数学基础，机器学习和深度学习理论。后半部分关注工程实践和理论应用。
+ 
+ [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese): tensorflow2中文教程
 
 [Back Top](#top)
 
