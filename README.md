@@ -269,6 +269,8 @@
   [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN): 免费的计算机编程类中文书籍
   
   [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
+  
+  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 常用的任务脚本,其中包括空白字符截取、数组翻转、数组循环、文件处理等 bash 代码片段，借助这些片段，可让你更快的搭建好脚本工具。 
 
 [Back Top](#top)
 
