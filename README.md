@@ -379,7 +379,8 @@
   [awesome-spider](https://github.com/facert/awesome-spider): 收集各种爬虫 （默认爬虫语言为 python
   
   [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-
+  
+  [deeplearning-models](https://github.com/rasbt/deeplearning-models): 包含大量深度学习架构、模型和 tips, 威斯康辛大学麦迪逊分校统计学助理教授、机器学习和深度学习研究者 Sabastian Raschka。
 
 [Back Top](#top)
 
