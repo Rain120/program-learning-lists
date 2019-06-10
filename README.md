@@ -40,6 +40,8 @@
 
 - <span id="front-end">前端</span> [学习资源](https://rain120.github.io/study-notes/#/resources/guide)
 
+  [Flutter完整开发实战详解系列](https://github.com/CarGuo/GSYFlutterBook): Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
   
   [A frontend tech list for developers](https://github.com/alienzhou/frontend-tech-list)
@@ -142,6 +144,8 @@
     [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm): 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。
     
     [astexplorer](https://github.com/fkling/astexplorer): 用于探索各种解析器生成的AST的Web工具。[Web](https://astexplorer.net/)
+    
+    [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): 你不知道的lodash和underscore
   
   - `CSS`
   
