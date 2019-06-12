@@ -275,6 +275,8 @@
   [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
   
   [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 常用的任务脚本,其中包括空白字符截取、数组翻转、数组循环、文件处理等 bash 代码片段，借助这些片段，可让你更快的搭建好脚本工具。 
+  
+  [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert): 各大公司内部里大牛分享的技术文档 PDF 或者 PPT
 
 [Back Top](#top)
 
