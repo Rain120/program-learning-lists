@@ -123,6 +123,8 @@
   [fullcalendar](https://github.com/fullcalendar/fullcalendar): 支持时间流、多语言、定义样式主题等等功能.
   
   [editor.js](https://github.com/codex-team/editor.js): Editor.js是一个Block-Styled编辑器。
+  
+  [filepond](https://github.com/pqina/filepond): 一个灵活且有趣的 JavaScript 文件上传库, 可用于 React、Vue、Angular and jQuery，支持目录，文件，本地/远程网址和数据 URIs 上传。
    
 [Back Top](#top)
 
