@@ -482,6 +482,8 @@
     
     [baiduyun](https://github.com/syhyz1990/baiduyun): 油猴脚本 一个脚本搞定百度网盘下载
     
+    [youtube-dl](https://github.com/ytdl-org/youtube-dl): 单视频下载这一块，youtube-dl 要比其它同类产品拥有更加灵活的配置。
+    
     [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh/): 谷歌在线压缩图片
     
     [Send](https://github.com/mozilla/send): 来自`Firefox`的简单私密文件共享, [在线地址](https://send.firefox.com/)
