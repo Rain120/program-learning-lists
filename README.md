@@ -166,6 +166,10 @@
     [cssfx](https://github.com/jolaleye/cssfx): 非常简单的点击复制CSS效果
     
     [fancy-border-radius](https://github.com/9elements/fancy-border-radius):  border-radius in CSS
+    
+    [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): 一些CSS技巧
+    
+    [css_tricks](https://github.com/QiShaoXuan/css_tricks): 一些 CSS 常用样式
   
   - `Jquery`
   
