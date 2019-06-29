@@ -206,6 +206,10 @@
   [Hands-On-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python): Packt发布的Python动手强化学习的Jupyter笔记本
   
   [automatetheboringstuff](https://automatetheboringstuff.com/)
+  
+  [bokeh](https://github.com/bokeh/bokeh): 一个 Python 交互式可视化库，使用 Bokeh 可快速创建交互式图表、仪表板和数据应用程序。[Demo](https://bokeh.pydata.org/en/latest/)
+  
+  [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning): 通过这个项目实践这些算法能更好地理解每个算法背后的数
 
 - <span id="git">`Git`</span> -- [国内快速下载方式](https://github.com/Rain120/Free-Source/tree/master/Git%20Bash)：目前只有 21.1， 20.1， 19.(1, 2), 需要其他版本请听issue
 
@@ -287,6 +291,8 @@
   [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert): 各大公司内部里大牛分享的技术文档 PDF 或者 PPT
   
   [gkajs/gka](https://github.com/gkajs/gka): 一款高效、高性能的帧动画生成工具
+  
+  [VeryNginx](https://github.com/alexazhou/VeryNginx): Nginx 扩展程序
 
 [Back Top](#top)
 
