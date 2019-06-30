@@ -148,6 +148,8 @@
     [astexplorer](https://github.com/fkling/astexplorer): 用于探索各种解析器生成的AST的Web工具。[Web](https://astexplorer.net/)
     
     [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): 你不知道的lodash和underscore
+    
+    [snabbdom](https://github.com/snabbdom/snabbdom): 一个虚拟DOM库，专注于简单性，模块化，强大的功能和性能。
   
   - `CSS`
   
