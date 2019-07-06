@@ -249,6 +249,8 @@
   [reading-go](https://github.com/developer-learning/reading-go): Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。
   
   [bilibili/kratos](https://github.com/bilibili/kratos): Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+  
+  [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en): 《Effective Go》中英双语版，[Git book](https://legacy.gitbook.com/book/bingohuang/effective-go-zh-en/details)
 
 [Back Top](#top)
 
