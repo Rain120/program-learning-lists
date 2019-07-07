@@ -228,6 +228,10 @@
   [Backlog Git Guide](https://backlog.com/git-tutorial/): [中文地址](https://backlog.com/git-tutorial/cn/)
   
   [cz-cli](https://github.com/commitizen/cz-cli): commitizen命令行实用程序。当您在`Commitizen`友好存储库中工作时，系统将提示您填写任何必填字段，并且您的提交消息将根据项目维护人员定义的标准进行格式化。
+  
+  [ohshitgit](http://ohshitgit.com/): 讲了一些Git的场景使用方法
+  
+  [utterances](https://github.com/utterance/utterances): 利用 GitHub Issues 快速地在你的个人网站上增加评论系统
 
 - <span id="go">`GO`</span>
 
@@ -387,6 +391,8 @@
  [Machine-Learning](https://github.com/shunliz/Machine-Learning): 机器学习原理笔记整理。前半部分关注数学基础，机器学习和深度学习理论。后半部分关注工程实践和理论应用。
  
  [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese): tensorflow2中文教程
+ 
+ [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology): DeepNude的核心算法以及通用的Image-to-Image理论与实践研究。
 
 [Back Top](#top)
 
