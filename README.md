@@ -232,6 +232,8 @@
   [ohshitgit](http://ohshitgit.com/): 讲了一些Git的场景使用方法
   
   [utterances](https://github.com/utterance/utterances): 利用 GitHub Issues 快速地在你的个人网站上增加评论系统
+  
+  [github-buttons](https://github.com/mdo/github-buttons): 显示实时的github star
 
 - <span id="go">`GO`</span>
 
