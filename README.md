@@ -316,6 +316,12 @@
   
   [Jeff的算法手册](https://github.com/jeffgerickson/algorithms): Jeff的算法手册，笔记等的错误记录
 
+  [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club): 算法可视化工具是一个交互式的在线平台，可以从代码中可视化算法。
+
+  [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms): 算法学习笔记
+
+  [awesome-algorithms](https://github.com/tayllan/awesome-algorithms): 数据结构和算法必知必会的50个代码实现。
+
 - <span id="leetcode">Leetcode</span>
 
   [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
