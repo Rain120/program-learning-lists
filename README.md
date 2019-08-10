@@ -303,6 +303,8 @@
   [gkajs/gka](https://github.com/gkajs/gka): 一款高效、高性能的帧动画生成工具
   
   [VeryNginx](https://github.com/alexazhou/VeryNginx): Nginx 扩展程序
+  
+  [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert): 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 
 [Back Top](#top)
 
@@ -401,6 +403,8 @@
  [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese): tensorflow2中文教程
  
  [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology): DeepNude的核心算法以及通用的Image-to-Image理论与实践研究。
+ 
+ [d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论（STAT 157）”教材。
 
 [Back Top](#top)
 
@@ -489,6 +493,10 @@
   [Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview): 每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
   
   [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience): 2019届秋招面经集合
+  
+  [interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+  
+  [fe-interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
   
 [Back Top](#top)
 
