@@ -1,8 +1,6 @@
 # 整理我在[`Github`](https://github.com/Rain120)上收集的学习资料
 
-### Brand
-
-![GitHub last commit](https://img.shields.io/github/last-commit/rain120/program-learning-lists?style=flat-square) ![GitHub](https://img.shields.io/github/license/rain120/program-learning-lists?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/rain120/program-learning-lists?style=flat-square) ![LICENSE](https://img.shields.io/github/license/rain120/program-learning-lists?style=flat-square)
 
 
 ### <span id="top">快速导航</span>
@@ -520,6 +518,10 @@
   [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes): 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类。
   
   [Mac tools](https://github.com/Louiszhai/tool): 开发效率提升：Mac生产力工具链推荐。
+  
+  [Mac效率神器 - 葵花宝典](https://rain120.github.io/study-notes/#/resources/mac-software)
+  
+  [浏览器插件](https://rain120.github.io/study-notes/#/resources/browser-plugins)
   
   - 下载 & 图片处理 & 文件
     
