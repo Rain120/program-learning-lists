@@ -1,5 +1,10 @@
 # 整理我在[`Github`](https://github.com/Rain120)上收集的学习资料
 
+### Brand
+
+![GitHub last commit](https://img.shields.io/github/last-commit/rain120/program-learning-lists?style=flat-square) ![GitHub](https://img.shields.io/github/license/rain120/program-learning-lists?style=flat-square)
+
+
 ### <span id="top">快速导航</span>
 
 [英语](#english) | [数学](#math) | [前端](#front-end) | [前端插件库](#fe-plugins) | [html-css-js-jq前端三剑客(`HTML` + `CSS` + `Javascript`) + `Jquery`](#html-css-js-jq) | [娱乐](#entertainment) | [Python](#py)
