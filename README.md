@@ -1,5 +1,9 @@
 # 整理我在[`Github`](https://github.com/Rain120)上收集的学习资料
 
+![GitHub watchers](https://img.shields.io/github/watchers/rain120/program-learning-lists?style=social)
+![GitHub stars](https://img.shields.io/github/stars/rain120/program-learning-lists?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rain120/program-learning-lists?style=social)
+<br />
 ![GitHub last commit](https://img.shields.io/github/last-commit/rain120/program-learning-lists?style=flat-square) ![LICENSE](https://img.shields.io/github/license/rain120/program-learning-lists?style=flat-square)
 
 
