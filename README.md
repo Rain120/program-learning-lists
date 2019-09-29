@@ -129,9 +129,23 @@
 
   [fullcalendar](https://github.com/fullcalendar/fullcalendar): 支持时间流、多语言、定义样式主题等等功能.
   
+  [shake.js](https://github.com/alexgibson/shake.js): 监听手机震动
+  
   [editor.js](https://github.com/codex-team/editor.js): Editor.js是一个Block-Styled编辑器。
   
   [filepond](https://github.com/pqina/filepond): 一个灵活且有趣的 JavaScript 文件上传库, 可用于 React、Vue、Angular and jQuery，支持目录，文件，本地/远程网址和数据 URIs 上传。
+  
+  [autosize](https://github.com/jackmoore/autosize): textara高度自适应文字 [官网](http://www.jacklmoore.com/autosize/)
+  
+  [jsPDF](https://github.com/MrRio/jsPDF): `JS`生成`pdf` [官网](https://parall.ax/products/jspdf)
+  
+  [qrcodejs](https://github.com/davidshimjs/qrcodejs): 页面二维码生成器
+  
+  [clipboard.js](https://github.com/zenorocha/clipboard.js): JS剪贴板 [Demo](https://clipboardjs.com/)
+  
+  [FileSaver.js](https://github.com/eligrey/FileSaver.js): 文件另存为
+  
+  [js-xlsx](https://github.com/SheetJS/js-xlsx): js to xlsx转换 [官网](https://sheetjs.com/)
    
 [Back Top](#top)
 
