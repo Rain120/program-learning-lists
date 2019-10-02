@@ -545,7 +545,7 @@
     
     [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
     
-    [proxyee-down](https://github.com/proxyee-down-org/proxyee-down): Proxyee Down 是一款开源的免费 HTTP 高速下载器，底层使用netty开发，支持自定义 HTTP 请求下载且支持扩展功能，可以通过安装扩展实现特殊的下载需求。
+    ~~[proxyee-down](https://github.com/proxyee-down-org/proxyee-down): Proxyee Down 是一款开源的免费 HTTP 高速下载器，底层使用netty开发，支持自定义 HTTP 请求下载且支持扩展功能，可以通过安装扩展实现特殊的下载需求。~~
     
     [Aria2](https://github.com/aria2/aria2): aria2是一个轻量级的多协议和多源，跨平台下载实用程序，在命令行中运行。 它支持HTTP / HTTPS，FTP，SFTP，BitTorrent和Metalink。
     
