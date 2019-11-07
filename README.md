@@ -212,6 +212,8 @@
 
   [北大多领域中文分词工具](https://github.com/lancopku/pkuseg-python)
   
+  [python-is-cool](https://github.com/chiphuyen/python-is-cool): 英伟达小姐姐的Python隐藏技巧合集
+  
   [Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
   
   [python-lessons](https://github.com/shannonturner/python-lessons): 一个为女性提供免费且适合初学者课程的组织
