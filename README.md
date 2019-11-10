@@ -173,6 +173,13 @@
     [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore): 你不知道的lodash和underscore
     
     [snabbdom](https://github.com/snabbdom/snabbdom): 一个虚拟DOM库，专注于简单性，模块化，强大的功能和性能。
+    
+    [Codelf](https://unbug.github.io/codelf/): 变量命名神器, Codelf通过搜索在线开源平台Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Projec的项目源码，帮开发者从中找出已有的匹配关键字的变量名。这个搜索服务支持直接搜索中文。codeif支持中文查询，输入中文意思，codeif可以根据需要查询尽可能满足需要的结果，并展示与查询结果相关的支持各种编程语言的代码片段以及代码库。
+
+作者：通爸
+链接：https://www.jianshu.com/p/0eaaf4fbd68c
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
   
   - `CSS`
   
