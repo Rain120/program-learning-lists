@@ -59,6 +59,8 @@
   
   [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
   
+  [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide): 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
+  
   [面向开发人员的前端技术列表](https://github.com/alienzhou/frontend-tech-list)
   
   [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): 2019年Web开发人员的路线图, [roadmap.sh](https://roadmap.sh/)
