@@ -44,6 +44,8 @@
   [线性代数笔记](https://github.com/zlotus/notes-linear-algebra)
   
   [《玩转线性代数》示例代码](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
+  
+  [geektime-math-for-programmers](https://github.com/yujiangshui/geektime-math-for-programmers): 极客时间《程序员的数学基础课》配套非官方 repo。
 
 - <span id="front-end">前端</span> [学习资源](https://rain120.github.io/study-notes/#/resources/guide)
 
