@@ -179,11 +179,8 @@
     [snabbdom](https://github.com/snabbdom/snabbdom): 一个虚拟DOM库，专注于简单性，模块化，强大的功能和性能。
     
     [Codelf](https://unbug.github.io/codelf/): 变量命名神器, Codelf通过搜索在线开源平台Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Projec的项目源码，帮开发者从中找出已有的匹配关键字的变量名。这个搜索服务支持直接搜索中文。codeif支持中文查询，输入中文意思，codeif可以根据需要查询尽可能满足需要的结果，并展示与查询结果相关的支持各种编程语言的代码片段以及代码库。
-
-作者：通爸
-链接：https://www.jianshu.com/p/0eaaf4fbd68c
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+    
+    [awesome-javascript-code-implementation](https://github.com/Rain120/awesome-javascript-code-implementation): 非常好的javascript源码实现
   
   - `CSS`
   
@@ -369,6 +366,8 @@
   [Python & JAVA Solutions for Leetcode](https://github.com/qiyuangong/leetcode): Python & Java 实现
   
   [algorithm](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的50个代码实现
+  
+  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md): JavaScript 算法与数据结构
 
 - <span id="cs">CS Courses</span>
   
