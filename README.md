@@ -184,7 +184,7 @@
     
     [awesome-javascript-code-implementation](https://github.com/Rain120/awesome-javascript-code-implementation): 非常好的javascript源码实现
     
-    [minipack][(https://github.com/ronami/minipack): 用JavaScript编写的现代模块打包器的简化示例
+    [minipack](https://github.com/ronami/minipack): 用JavaScript编写的现代模块打包器的简化示例
   
   - `CSS`
   
